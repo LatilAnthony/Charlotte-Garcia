@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+ h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+    font-size: 5em;
+      }
+      .img1 {
+        display: block; 
+        margin: auto;
+        text-align: center;
+      }
+      .element {
+        font-size: 50px;
+        background-color: rgb(2, 38, 53);
+        border-radius: 10px;
+        box-shadow: 6px 6px 0px rgba(0, 0, 0);
+        padding: 100px;}
+        p{
+          text-shadow: 1px 0px 0px;
+          text-align: center;
+          font-size: 1.5em;
+          font-family: 'Agdasima', sans-serif;
+font-family: 'Fasthand', cursive;
+font-family: 'Indie Flower', cursive;
+        }
+        .banniere {
+          padding: 100px;
+          background-image: url(https://www.geffosses.fr/wp-content/uploads/2021/06/assistante-maternelle-geffosses.jpg);
+        }
